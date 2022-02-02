@@ -1,0 +1,9 @@
+*.xml
+.class
+.xml
+.iml
+.idea
+/.idea
+/.class
+*.class
+
