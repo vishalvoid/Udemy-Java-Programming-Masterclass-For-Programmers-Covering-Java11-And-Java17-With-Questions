@@ -1,4 +1,4 @@
-package ExerciseSolution;
+
 public class SimpleInterest {
     public static void main(String[] args) {
         // for 2 to 8
