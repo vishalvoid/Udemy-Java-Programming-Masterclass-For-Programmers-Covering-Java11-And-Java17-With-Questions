@@ -1,4 +1,4 @@
-package ExerciseSolution;
+
 public class ThreePrime {
 
     public static void main(String[] args){
